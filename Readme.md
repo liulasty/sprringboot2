@@ -1,4 +1,3 @@
-# Spring Boot 示例项目
 # sprringboot2
 
 ## 项目简介
