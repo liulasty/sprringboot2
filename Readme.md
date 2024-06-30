@@ -10,6 +10,9 @@
 
 #### 软件架构
 软件架构说明
+#### 技术栈
+#### 主要技术栈
+
 
 - **后端**：Spring Boot 2.x, Spring Web, Spring Data JPA/Hibernate
 - **数据库**：MySQL (或选择其他如PostgreSQL)
@@ -21,30 +24,31 @@
 #### 安装教程
 
 ## 功能特性
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 1. **用户管理**：包括用户注册、登录、角色权限分配。
 2. **CRUD操作**：演示基本的数据增删改查功能，通过REST API进行交互。
 3. **日志记录**：集成Logback/Slf4j记录请求日志和错误日志。
 4. **异常处理**：统一异常处理机制，提供友好的错误信息反馈。
 5. **单元测试与集成测试**：使用JUnit和Mockito进行服务层测试，确保代码质量。
+6. **前端技术**：使用Vue.js、Element-UI等现代前端技术，实现用户友好、高效交互。
+7. **数据可视化**：通过ECharts等可视化工具，实现数据可视化展示。
+8. 
 #### 使用说明
 
 ## 快速开始
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-1. **克隆项目**：`git clone https://gitee.com/your_username/your_project.git`
+1. **克隆项目**：`git clone https://github.com/liulasty/sprringboot2`
 2. **导入IDE**：使用IntelliJ IDEA或Eclipse导入项目。
 3. **配置数据库**：修改`application.properties`中的数据库连接信息。
 4. **运行应用**：运行`Application.java`主类，应用默认启动在8080端口。
 5. **访问API**：使用Postman或类似工具访问提供的API接口。
 #### 参与贡献
+1.  Fork 本仓库
+2. https://github.com/liulasty
+3. https://github.com/ddggll
 
-## 贡献指南
+
+在发起Pull Request前，请先阅读`CONTRIBUTING.md`文件。
+#### 贡献指南
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
 3.  提交代码
